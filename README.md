@@ -102,7 +102,7 @@ data-warehouse-project/
 ## 🌟 About Me
 Hi, I'm **Bambam Kumar Gupta**, a B.Tech student at **MNNIT Allahabad**.  
 I’m passionate about **Data Engineering and Analytics**.  
-I enjoy building real-world projects using **SQL, Python, ETL Pipelines, MERN Stack**,  
+I enjoy building real-world projects using **SQL, Python, ETL Pipelines**,  
 and showcasing them through end-to-end practical implementations.
 
 
